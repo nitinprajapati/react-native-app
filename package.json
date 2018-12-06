@@ -4,27 +4,15 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "eject": "expo eject",
-    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
-  },
-  "jest": {
-    "preset": "jest-expo"
+    "eject": "expo eject"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
-    "appcenter": "1.10.0",
-    "appcenter-analytics": "1.10.0",
-    "appcenter-crashes": "1.10.0",
     "expo": "^31.0.2",
-    "g": "^2.0.1",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-cli": "^2.0.1",
-    "react-navigation": "^2.18.2"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0",
-    "jest-expo": "^31.0.0"
+    "babel-preset-expo": "^5.0.0"
   },
   "private": true
 }
