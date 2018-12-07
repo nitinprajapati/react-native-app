@@ -10,8 +10,10 @@
     "appcenter": "1.10.0",
     "appcenter-analytics": "1.10.0",
     "appcenter-crashes": "1.10.0",
+    "native-base": "^2.8.1",
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "react-native-google-signin": "^1.0.1"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
